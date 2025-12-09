@@ -1,5 +1,5 @@
 
-## The L-band continuum images of 40 **BASS-HI** targets
+# The L-band continuum images of 40 **BASS-HI** targets
 
 These datasets were obtained from two projects ([_VLA/20A-123_](https://library.nrao.edu/proposals/?utf8=✓&search_field=all_fields&q=20A-123) and [_VLA/23B-079_](https://library.nrao.edu/proposals/catalog/20265)) observed with the Karl G. Jansky Very Large Array (VLA).  
 The observations were conducted in the C- and D-configurations, targeting 38 and 2 sources, respectively.  
@@ -7,7 +7,16 @@ The L-band broadband covers 1–2 GHz, resulting in a typical bandwidth of 1 GHz
 The data were processed and reduced using <span style="color:green"><i>CASA 6.5.4-9 CASAtools:v1.0.0</i></span>.
 
 
-### The measurement details
+## Directory structure
+
+* `cont_fits`: continuum fits files
+* `residuals`: residual fits files
+* `measure_png`: continuum measurement PNG files (with Measurement radius)
+* `residual_maps`: residual image files in PNG
+* `residual_maps_pdf`: residual image files in PDF
+
+
+## The measurement details
 - RMS values were derived from the imaging residual FITS files.
 - The continuum flux and uncertainty were measured via the CASA task "[_imfit_](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://casadocs.readthedocs.io/en/latest/api/tt/casatasks.analysis.imfit.html&ved=2ahUKEwiasJOT3K-RAxUvZPUHHT1dD9wQFnoECAwQAQ&usg=AOvVaw1_T7bAawYJ0kwCIx0soeRE)" within the coverage radius.  
 
@@ -42,6 +51,8 @@ The data were processed and reduced using <span style="color:green"><i>CASA 6.5.
 
 
 ---
+
+## The observation details
 
 - #### 20A-123 (C-configuration) PI: A.Chung
 A total of 38 datasets are included.  
