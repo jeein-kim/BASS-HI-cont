@@ -7,11 +7,11 @@ The L-band broadband covers 1–2 GHz, resulting in a typical bandwidth of 1 GHz
 The data were processed and reduced using <span style="color:green"><i>CASA 6.5.4-9 CASAtools:v1.0.0</i></span>.
 
 
-The measurement files include BAT IDs, beam information, measured fluxes with uncertainties, measured radii, and RMS values.  
-RMS values were derived from the imaging residual FITS files.
-The continuum flux and uncertainty were measured via the CASA task "[_imfit_](https://casadocs.readthedocs.io/en/latest/api/tt/casatasks.analysis.imfit.html)" within the coverage radius.  
+### The measurement details
+- RMS values were derived from the imaging residual FITS files.
+- The continuum flux and uncertainty were measured via the CASA task "[_imfit_](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://casadocs.readthedocs.io/en/latest/api/tt/casatasks.analysis.imfit.html&ved=2ahUKEwiasJOT3K-RAxUvZPUHHT1dD9wQFnoECAwQAQ&usg=AOvVaw1_T7bAawYJ0kwCIx0soeRE)" within the coverage radius.  
 
-The columns in the `measurements.csv` file are listed below:
+- The columns in the `measurements.csv` file are listed below:
 
 
 | Column Name               | Description |
