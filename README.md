@@ -12,7 +12,8 @@ The data were processed and reduced using <span style="color:green"><i>CASA 6.5.
 
 <img width="4000" height="2650" alt="BASS_continuum_atlas_v10_250dpi" src="https://github.com/user-attachments/assets/e1bcbad1-cd3d-414a-8ef9-56b03d2a8c6c" />
 
-[Download Full-resolution PDF](https://github.com/user-attachments/files/35129760/BASS_continuum_atlas_v10.pdf)
+[Download Full-resolution PDF](https://github.com/user-attachments/files/35130125/BASS_continuum_atlas_L-band_40.pdf)
+
 
 
 ## Directory structure
