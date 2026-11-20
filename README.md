@@ -7,6 +7,11 @@ The L-band broadband covers 1–2 GHz, resulting in a typical bandwidth of 1 GHz
 The data were processed and reduced using <span style="color:green"><i>CASA 6.5.4-9 CASAtools:v1.0.0</i></span>.
 
 
+## Continuum Atlas
+[BASS_continuum_atlas_v10.pdf](https://github.com/user-attachments/files/35129760/BASS_continuum_atlas_v10.pdf)
+
+
+
 ## Directory structure
 
 * `cont_fits`: continuum fits files
