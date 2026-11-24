@@ -1,4 +1,5 @@
 
+
 # The L-band continuum images of 40 **BASS-HI** targets
 
 These datasets were obtained from two projects ([_VLA/20A-123_](https://library.nrao.edu/proposals/?utf8=✓&search_field=all_fields&q=20A-123) and [_VLA/23B-079_](https://library.nrao.edu/proposals/catalog/20265)) observed with the Karl G. Jansky Very Large Array (VLA).  
@@ -10,10 +11,9 @@ The data were processed and reduced using <span style="color:green"><i>CASA 6.5.
 
 ## BASS Continuum Atlas in L-band (1.4 GHz)
 
-<img width="4000" height="2650" alt="BASS_continuum_atlas_v10_250dpi" src="https://github.com/user-attachments/assets/e1bcbad1-cd3d-414a-8ef9-56b03d2a8c6c" />
+<img width="4000" height="2650" alt="BASS_continuum_atlas_Lband_40" src="https://github.com/user-attachments/assets/22e07497-a2b3-4142-962c-0bc5aa3d8b36" />
 
-[Download Full-resolution PDF](https://github.com/user-attachments/files/35130125/BASS_continuum_atlas_L-band_40.pdf)
-
+[Download Full-resolution PDF](https://github.com/user-attachments/files/35314199/BASS_continuum_atlas_Lband_40.pdf)
 
 
 ## Directory structure
